@@ -10,7 +10,7 @@ alone, thus I took the simulation way.
     1. Run birthdayProblem.cpp in a c++ compiler of your choice
     2. This would generate a csv file of population vs coincidences
     3. Run birthday_plot.py to generate the graph from the csv file
-![alt text](https://github.com/abhay447/stats110/raw/master/birthdays.png "Logo Title Text 1")
+![Birthday Problem Image](https://github.com/abhay447/stats110/raw/master/birthdays.png "Birthday Problem Image")
 
  - Monty Hall Problem
     1. We have coded a generic version of the monty hall problem, You can run it in C++ compiler of your choice
