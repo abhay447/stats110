@@ -18,3 +18,8 @@ alone, thus I took the simulation way.
  - Expectation of a Geometric Distribution
     1. Run on c++ compiler of your choice
     2. The program assumes a random value of probability of success of a single trial and then carries out multiple simulationson it.
+  
+ - Expected number of local maximas (Taken from putnam competition)
+    1. Run putnam.cpp on a c++ compiler of your choice
+    2. The program uses the random_shuffle function of c++ to produce multiple permutations of a vector and count the number of expectations.
+    3. When asked by the prompt: keep n<1000000 if you want to run 100 simulations in a time limit that doesn't test your patience. 
